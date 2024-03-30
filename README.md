@@ -15,7 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Code](https://github.com/aaqibqadeer/blog-preview-card-main)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://aaqibqadeer.github.io/blog-preview-card-main/)
 
 ### Built with
 
