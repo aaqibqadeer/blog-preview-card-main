@@ -10,7 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./design/desktop-design.jpg.jpg)
+![](./design/desktop-design.jpg)
 
 ### Links
 
